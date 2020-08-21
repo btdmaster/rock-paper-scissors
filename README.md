@@ -1,0 +1,1 @@
+Rock Paper Scissors against `Math.random()`. Made in vanilla HTML, CSS and JS. Learned DOM manipulation and callbacks. [Live version](https://btdmaster.github.io/rock-paper-scissors/) on GitHub Pages.
